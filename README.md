@@ -5,14 +5,14 @@ Bu repository Kodluyoruz Apsiyon Backend eğitimi için oluşturduğum ilk repo.
 
 Projeyi klonlamak için
 ```
-git clone https://github.com/Alperyrtds/kodluyoruzilkrepo.git
+git clone https://github.com/FehmiArslan/KodluyoruzFirstRepo.git
 ```
 # Kullanım
 Projeyi cloneladıkdan sonra visual studio code editöründe açınız 
 
 windows için;
 ```
-git pull https://github.com/Alperyrtds/kodluyoruzilkrepo.git
+git pull https://github.com/FehmiArslan/KodluyoruzFirstRepo.git
 ```
 # Katılım
 
