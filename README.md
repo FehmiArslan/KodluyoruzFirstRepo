@@ -3,7 +3,7 @@ Bu repository Kodluyoruz Apsiyon Backend eğitimi için oluşturduğum ilk repo.
 
 # Yükleme
 
-Projeyi klonlamak için
+Projeyi klonlamak için;
 ```
 git clone https://github.com/FehmiArslan/KodluyoruzFirstRepo.git
 ```
